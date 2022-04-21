@@ -1,5 +1,5 @@
 /**********************************************************************************************************
-SineWave Generator
+Low-pass Filter
 1. Input the required cut-off frequency between 0 to 1000Hz.
 2. Output Filter kernel is stored in the file "filter.dat".
 3. The sampling rate is fixed here at 2000Hz but user can vary it according to the need.

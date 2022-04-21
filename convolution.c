@@ -1,5 +1,5 @@
 /**********************************************************************************************************
-SineWave Generator
+Convolution
 1. Here, the sequence_1 is of length 4, the sequence_2 is of length 5.
 2. Input integer values for sequence_1 and sequence_2.
 3. Output is the convolution of these two sequences.
